@@ -1,0 +1,42 @@
+
+
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.wrapper {
+    padding: 10px;
+}
+
+header {
+    background-color: lightgray;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.titlenav {
+    width: 100%;
+}
+
+.title {
+    width: auto;
+    text-align: center;
+}
+
+.nav {
+    width: auto;
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.productimage {
+    width: 10rem;
+    padding: 10px;
+    
+}
